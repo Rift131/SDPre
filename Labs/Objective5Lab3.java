@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Objective5Lab3 {
-
   public static void main(String[] args) {
     // set a variable to be assigned the value the user inputs
     double userNum;
