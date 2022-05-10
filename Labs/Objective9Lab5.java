@@ -39,6 +39,7 @@ public class Objective9Lab5 {
             break;
         }
       }
+      // close the scanner
       kb.close();
   }
   // method for the menu options
