@@ -5,7 +5,7 @@ public class Objective7Lab4 {
     int totalSum = 0;
     // set a variable to be added to the counter
     int increments = 0;
-    // while loop so long as the incremented counter is  less than or equal to 20
+    // while loop so long as the incremented counter is  less than 20
     while (increments < 20) {
     // add one to the increment counter
     increments++;
